@@ -7,3 +7,5 @@ Hello there!
 
 ## Top languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinyish&theme=radical&title_color=8E2DE2&text_color=fff)
+
+- I am currently learning HTML and CSS right now.
