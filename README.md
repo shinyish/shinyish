@@ -6,6 +6,7 @@ I am a new programmer.
 
 ### Stats
 ![Profile Visits](https://komarev.com/ghpvc/?username=shinyish&color=blue&label=Profile-Visits&width=26px)
+
 ![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=shinyish&show_icons=true&theme=tokyonight&layout=compact)
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=shinyish&show_icons=true&theme=tokyonight)
