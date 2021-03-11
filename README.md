@@ -1,4 +1,4 @@
-I am a new programmer.
+I've had the idea of coding/programming for about 5 years but I am now recently learning how to do it. I am trying to imporve my CSS and HTML and I am currently trying to find out how to learn JS.
 
 <a href="https://discord.com/users/760301818243842108"><img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
 
