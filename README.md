@@ -1,4 +1,14 @@
+<h2>Hi my name is Shiny</h2>
+
 I have basic knowledge on JavaScript and I am currently learning Discord.js aswell as learning some basic lua too. My dream is to work as a full-stack engineer at a good company and be a good developer.
+
+* I am learning more JavaScript
+* I am learning Discord.js
+* I will start learning react.js soon
+* I am learning lua
+</br>
+
+If you want to contact me, you can contact me on these platforms
 
 <a href="https://discord.com/users/760301818243842108"><img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
 
@@ -7,6 +17,7 @@ I have basic knowledge on JavaScript and I am currently learning Discord.js aswe
 
 
 </br>
+These are my statistics!
 
 ### Stats
 ![Profile Visits](https://komarev.com/ghpvc/?username=shinyish&color=blue&label=Profile-Visits&width=26px)
@@ -22,3 +33,4 @@ I have basic knowledge on JavaScript and I am currently learning Discord.js aswe
 <a href="https://www.javascript.com/"><img align="left" alt="Java Script" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813041368371822632/584735430763741202.png" /></a>
 <a href="https://nodejs.org/en/"><img align="left" alt="NodeJS" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813041964546785280/PikPng.com_js-logo-png_4309640.png" /></a>
 <a href="https://www.roblox.com/create"><img align="left" alt="RblxStudio" width="28px" src="https://cdn.discordapp.com/attachments/825045889449066498/825060805811896410/340.png" /></a>
+
