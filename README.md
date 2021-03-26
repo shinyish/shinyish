@@ -2,6 +2,10 @@ I know basic knowledge on JavaScript and I am currently learning Discord.js aswe
 
 <a href="https://discord.com/users/760301818243842108"><img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
 
+<a href="https://www.youtube.com/channel/UCgc17VJDBPHNOaQJ1PREECA"><img align="left" alt="YouTube" width="28px" src="https://cdn.discordapp.com/attachments/825045889449066498/825063511054614559/YouTube-Emblem.png" /></a>
+
+
+
 </br>
 
 ### Stats
