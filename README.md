@@ -1,4 +1,4 @@
-I know basic knowledge on JavaScript and I am currently learning Discord.js aswell as learning some basic lua too. My dream is to work as a full-stack engineer at a good company and be a good developer.
+I have basic knowledge on JavaScript and I am currently learning Discord.js aswell as learning some basic lua too. My dream is to work as a full-stack engineer at a good company and be a good developer.
 
 <a href="https://discord.com/users/760301818243842108"><img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
 
