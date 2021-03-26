@@ -32,4 +32,4 @@ If you want to contact me, you can contact me on these platforms
 <a href="https://www.javascript.com/"><img align="left" alt="Java Script" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813041368371822632/584735430763741202.png" /></a>
 <a href="https://nodejs.org/en/"><img align="left" alt="NodeJS" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813041964546785280/PikPng.com_js-logo-png_4309640.png" /></a>
 <a href="https://www.roblox.com/create"><img align="left" alt="RblxStudio" width="28px" src="https://cdn.discordapp.com/attachments/825045889449066498/825060805811896410/340.png" /></a>
-
+<a href="https://www.lua.org/"><img align="left" alt="Lua" width="28px" src="https://cdn.discordapp.com/attachments/825045889449066498/825066179793911878/1200px-Lua-Logo.png" /></a>
