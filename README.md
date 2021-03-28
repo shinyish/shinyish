@@ -1,6 +1,6 @@
 <h2>Hi my name is Shiny</h2>
 
-I have basic knowledge on JavaScript and I am currently learning Discord.js aswell as learning some basic lua too. My dream is to work as a full-stack engineer at a good company and be a good developer.
+I have basic knowledge on JavaScript and I am currently learning Discord.js aswell as learning some intermediate lua too. My dream is to work as a full-stack engineer at a good company and be a good developer.
 
 * I am learning more JavaScript
 * I am learning Discord.js
