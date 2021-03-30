@@ -5,7 +5,7 @@ I have basic knowledge on JavaScript and I am currently learning Discord.js aswe
 * I am learning more JavaScript
 * I am learning Discord.js
 * I will start learning react.js soon
-* I am learning lua
+* I have a good grasp of lua
 </br>
 
 If you want to contact me, you can contact me on these platforms
