@@ -14,6 +14,9 @@ If you want to contact me, you can contact me on these platforms
 
 <a href="https://www.youtube.com/channel/UCgc17VJDBPHNOaQJ1PREECA"><img align="left" alt="YouTube" width="28px" src="https://cdn.discordapp.com/attachments/825045889449066498/825063511054614559/YouTube-Emblem.png" /></a>
 
+
+<a href="https://www.roblox.com/users/665915051/profile"><img align="left" alt="Roblox" width="28px" src="https://cdn.discordapp.com/attachments/401509972049002506/827914019293757460/0eeeb19633422b1241f4306419a0f15f39d58de9.png" /></a>
+
 </br>
 
 ### These are my statistics!
