@@ -1,11 +1,10 @@
 <h2>Hi my name is Shiny</h2>
 
-I have basic knowledge on JavaScript and I am currently learning Discord.js aswell as learning some intermediate lua too. My dream is to work as a full-stack engineer at a good company and be a good developer.
+I have a very good grasp of lua, I've gave up on Javascript but I will start to learn C++ or Java after I am super comfortable with lua. I am also pretty good at UIs and I will start learning how to tween objects in Roblox soon.
 
-* I am learning more JavaScript
-* I am learning Discord.js
-* I will start learning react.js soon
 * I have a good grasp of lua
+* I am decent at UI design on Roblox
+* I am working on a plugin for Roblox
 </br>
 
 If you want to contact me, you can contact me on these platforms
@@ -13,7 +12,6 @@ If you want to contact me, you can contact me on these platforms
 <a href="https://discord.com/users/760301818243842108"><img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
 
 <a href="https://www.youtube.com/channel/UCgc17VJDBPHNOaQJ1PREECA"><img align="left" alt="YouTube" width="28px" src="https://cdn.discordapp.com/attachments/825045889449066498/825063511054614559/YouTube-Emblem.png" /></a>
-
 
 <a href="https://www.roblox.com/users/665915051/profile"><img align="left" alt="Roblox" width="28px" src="https://cdn.discordapp.com/attachments/401509972049002506/827914019293757460/0eeeb19633422b1241f4306419a0f15f39d58de9.png" /></a>
 
