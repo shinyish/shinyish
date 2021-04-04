@@ -1,10 +1,4 @@
 <h2>Hi my name is Shiny</h2>
-
-I have a very good grasp of lua, I've gave up on Javascript but I will start to learn C++ or Java after I am super comfortable with lua. I am also pretty good at UIs and I will start learning how to tween objects in Roblox soon.
-
-* I have a good grasp of lua
-* I am decent at UI design on Roblox
-* I am working on a plugin for Roblox
 </br>
 
 If you want to contact me, you can contact me on these platforms
