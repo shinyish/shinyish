@@ -1,7 +1,7 @@
 <h2>Hi my name is Shiny</h2>
 </br>
 
-#If you want to contact me, you can contact me on these platforms
+## If you want to contact me, you can contact me on these platforms
 
 <a href="https://discord.com/users/760301818243842108"><img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
 
