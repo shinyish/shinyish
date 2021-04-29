@@ -1,5 +1,6 @@
 <h2>Hi my name is Shiny</h2>
 </br>
+I am a Roblox game developer from Canada.
 
 ## If you want to contact me, you can contact me on these platforms
 
