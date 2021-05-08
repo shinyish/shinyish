@@ -2,6 +2,8 @@
 </br>
 I am a Roblox game developer from Canada.
 
+I am currently working on a forum built in Roblox.
+
 ## If you want to contact me, you can contact me on these platforms
 
 <a href="https://discord.com/users/760301818243842108"><img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
