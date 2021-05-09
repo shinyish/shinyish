@@ -2,7 +2,7 @@
 </br>
 I am a Roblox game developer from Canada.
 
-I am currently working on a forum built in Roblox.
+I am currently working on a forum built in Roblox, you can check that out <a href="https://www.roblox.com/games/6777501350/DuckBlox?refPageId=34e02a34-7b36-496a-8a9e-1fafc486b9f2">here</a>! 
 
 ## If you want to contact me, you can contact me on these platforms
 
