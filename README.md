@@ -16,10 +16,10 @@ I am currently working on a forum built in Roblox, you can check that out <a hre
 
 ### Skills
 * I am not a strong web developer and I really don't have any interest in it.
-* I am a pretty moderator luau (roblox lua) developer.
+* I am a pretty moderate luau (roblox lua) developer.
 * I am strong thinking and very creative
 * I am a weak UI developer, but I can make layouts
-* I am very great to communicate with and share ideas as long as you can communicate good (no ghosting).
+* I am very great to communicate with and share ideas as long as you can communicate good as well.
 
 </br>
 
