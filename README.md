@@ -34,10 +34,19 @@ I am currently working on a forum built in Roblox, you can check that out <a hre
 
 ## Langauges & Tools 
 <a href="https://code.visualstudio.com/"><img align="left" alt="VScode" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813042483814596618/777960436187398168.png" /></a>
+
 <a href="https://html.com/"><img align="left" alt="HTML" width="24px" src="https://cdn.discordapp.com/attachments/809031839032672327/814495978413490206/813909686449078353.png" /></a>
+
 <a href="https://www.w3schools.com/css/css_intro.asp"><img align="left" alt="CSS" width="24px" src="https://cdn.discordapp.com/attachments/809031839032672327/814495960231051285/813909685542584321.png" /></a>
+
 <a href="https://www.javascript.com/"><img align="left" alt="Java Script" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813041368371822632/584735430763741202.png" /></a>
+
 <a href="https://nodejs.org/en/"><img align="left" alt="NodeJS" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813041964546785280/PikPng.com_js-logo-png_4309640.png" /></a>
+
 <a href="https://www.roblox.com/create"><img align="left" alt="RblxStudio" width="28px" src="https://cdn.discordapp.com/attachments/825045889449066498/825060805811896410/340.png" /></a>
+
 <a href="https://www.lua.org/"><img align="left" alt="Lua" width="28px" src="https://cdn.discordapp.com/attachments/825045889449066498/825066179793911878/1200px-Lua-Logo.png" /></a>
+
 <a href="https://atom.io/"><img align="left" alt="atom" width="28px" src="https://cdn.discordapp.com/attachments/782651195311259661/841330417411162112/atom-logo.png"/></a>
+
+<a href="https://www.xml.com/"><img allign="left" alt="xml" width="28px" src="https://cdn.iconscout.com/icon/free/png-512/xml-file-2330558-1950399.png"/></a>
