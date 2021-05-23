@@ -4,6 +4,8 @@ I am a Roblox game developer from Canada.
 
 I am currently working on a forum built in Roblox, you can check that out <a href="https://www.roblox.com/games/6777501350/DuckBlox?refPageId=34e02a34-7b36-496a-8a9e-1fafc486b9f2">here</a>! 
 
+I am also working on a <a href="https://roblox.github.io/luau/">luau</a> guide!
+
 ## If you want to contact me, you can contact me on these platforms
 
 <a href="https://discord.com/users/760301818243842108"><img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
