@@ -6,6 +6,8 @@ I am currently working on a forum built in Roblox, you can check that out <a hre
 
 I am also working on a <a href="https://roblox.github.io/luau/">luau</a> guide!
 
+Amateur javascript developer
+
 ## If you want to contact me, you can contact me on these platforms
 
 <a href="https://discord.com/users/760301818243842108"><img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" /></a>
