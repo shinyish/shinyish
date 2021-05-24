@@ -30,9 +30,8 @@ I am also working on a <a href="https://roblox.github.io/luau/">luau</a> guide!
 ### Stats
 ![Profile Visits](https://komarev.com/ghpvc/?username=shinyish&color=blue&label=Profile-Visits&width=26px)
 
-![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=shinyish&show_icons=true&theme=tokyonight&layout=compact)
-
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=shinyish&show_icons=true&theme=tokyonight)
+![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=shinyish&show_icons=true&theme=tokyonight&layout=compact) 
 
 ## Langauges & Tools 
 <a href="https://code.visualstudio.com/"><img align="left" alt="VScode" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813042483814596618/777960436187398168.png" /></a>
