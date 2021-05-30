@@ -30,7 +30,7 @@ Amateur javascript user
 ### These are my statistics!
 
 ### Stats
-![Profile Visits](https://komarev.com/ghpvc/?username=shinyish&color=blue&label=Profile-Visits&width=26px)
+![Profile Visits](https://komarev.com/ghpvc/?username=shinyish&color=green&label=Profile-Visits&width=26px)
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=shinyish&show_icons=true&theme=tokyonight)
 ![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=shinyish&show_icons=true&theme=tokyonight&layout=compact) 
