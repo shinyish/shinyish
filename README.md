@@ -16,7 +16,7 @@ Amateur javascript user
 
 <a href="https://www.roblox.com/users/665915051/profile"><img align="left" alt="Roblox" width="28px" src="https://cdn.discordapp.com/attachments/401509972049002506/827914019293757460/0eeeb19633422b1241f4306419a0f15f39d58de9.png" /></a>
 
-<br />
+</br>
 
 ### Skills
 * I am not a strong web developer and I really don't have any interest in it.
