@@ -19,7 +19,7 @@
   <strong>
     I am not a strong web developer and I really don't have any interest in it.
     </br>
-    I am a pretty moderate luau (roblox lua) developer.
+    I am a pretty goode luau (roblox lua) developer.
     </br>
     I am strong thinking and very creative
     </br>
@@ -33,7 +33,7 @@
 <!-- projects -->
 ## Projects
 <div>
-  tba
+  * I'm currently working on a cool PVP and mining game on Roblox called Gen. It is currently in a pre-alpha development stage and only my friends on Roblox can play it, but it will be released publicly with a fee of 25 Robux once beta comes out! The game's link is <a href="https://www.roblox.com/games/6898251851/PRE-ALPHA-Gen">here</a>!
 </div>
 
 </br>
