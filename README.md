@@ -19,7 +19,7 @@
   <strong>
     I am not a strong web developer and I really don't have any interest in it.
     </br>
-    I am a pretty goode luau (roblox lua) developer.
+    I am a pretty good luau (roblox lua) developer.
     </br>
     I am strong thinking and very creative
     </br>
