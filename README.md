@@ -30,11 +30,7 @@
 </p>
 </br>
 
-<!-- projects -->
-## Projects
-<div>
-  * I'm currently working on a cool PVP and mining game on Roblox called Gen. It is currently in a pre-alpha development stage and only my friends on Roblox can play it, but it will be released publicly with a fee of 25 Robux once beta comes out! The game's link is <a href="https://www.roblox.com/games/6898251851/PRE-ALPHA-Gen">here</a>!
-</div>
+<!-- something later -->
 
 </br>
 
