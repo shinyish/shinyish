@@ -71,9 +71,11 @@ for future reference
 
 <!-- LUA -->
 <a href="https://www.lua.org/"><img align="left" alt="Lua" width="28px" src="https://cdn.discordapp.com/attachments/825045889449066498/825066179793911878/1200px-Lua-Logo.png" /></a>
-
 <!-- ATOM -->
 <a href="https://atom.io/"><img align="left" alt="atom" width="28px" src="https://cdn.discordapp.com/attachments/782651195311259661/841330417411162112/atom-logo.png"/></a>
-
 <!-- XML -->
 <a href="https://www.xml.com/"><img allign="left" alt="xml" width="28px" src="https://cdn.iconscout.com/icon/free/png-512/xml-file-2330558-1950399.png"/></a>
+<!-- Git -->
+<a href="https://git-scm.com/"><img allign="left" alt="git" width="28px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/></a>
+<!-- Rojo -->
+<a href="https://rojo.space/"><img allign="left" alt="rojo" width="28px" src="https://rojo.space/static/logo-512-258e64db24b3d9db3e912f6f8fce5af6.png"/></a>
